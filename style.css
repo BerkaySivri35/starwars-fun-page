@@ -1,0 +1,35 @@
+.brandImage{
+    width: 100px;
+    height: 50px;
+}
+
+.articleImage1{
+    background-image: url(https://images.unsplash.com/photo-1547700055-b61cacebece9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-size: cover;
+}
+li{
+    font-weight: bold;
+    font-size: larger;
+}
+.articleBorder{
+    border-right: 2px solid red;
+}
+.articleImage2{
+    background-image: url(https://images.unsplash.com/photo-1631051662790-802259eae2c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80);
+    background-size: cover;
+}
+.articleImage3{
+    background-image: url(https://images.unsplash.com/photo-1653850406559-cbe83bbfc6ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80);
+}
+.articleImage4{
+    background-image: url(https://images.unsplash.com/photo-1598501479146-ef2b41258663?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80);
+
+}
+.articleImage5{
+    background-image: url(https://www.denofgeek.com/wp-content/uploads/2019/12/x-wing.jpg?w=1024);
+    background-size: cover;
+}
+.articleImage6{
+    background-image: url(https://sportshub.cbsistatic.com/i/2021/03/16/57ae1627-c714-4eae-8a9b-a4d87fa04726/x-wing-fighter-star-wars-a-new-hope-1018466.jpg);
+    
+}
